@@ -381,11 +381,9 @@ HR-Analytics-Dashboard
 # 📷 Dashboard Preview
 
 > Place your dashboard screenshot inside the repository and rename it as **Dashboard.png**
+>
+> <img width="1300" height="732" alt="image" src="https://github.com/user-attachments/assets/b0ca7758-abd1-4061-9e93-36d7b3a2ceae" />
 
-```md
-<img width="1300" height="732" alt="image" src="https://github.com/user-attachments/assets/c8914ac0-d933-43f8-be3b-ab573cdbc8c1" />
-
-```
 
 ---
 
